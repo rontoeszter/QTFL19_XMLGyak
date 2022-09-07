@@ -4,7 +4,7 @@
 <title>kezdolap</title>
 </head>
 
-<body>
+<body style="background-color:powderblue;">
 
 <img src="info_ep.jpg" alt="info_epulet" width="104" height="142">
 <table align="center">
