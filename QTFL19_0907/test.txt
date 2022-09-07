@@ -1,1 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>kezdolap</title>
+</head>
 
+<body>
+
+<img src="info_ep.jpg" alt="info_epulet" width="104" height="142">
+<table align="center">
+  <tr>
+    <td><a href="https://www.xml.com"><h1>Adatkezelés XML-ben</h1></a></td>
+    <td><a href="https://www.webtech.com"><h1>Web technológiák 1.</h1></a></td>
+    <td><a href="https://www.mestint.com"><h1>Mesterséges intelligencia</h1></a></td>
+  </tr>
+</table>
+
+
+
+
+</body>
+
+</html>
