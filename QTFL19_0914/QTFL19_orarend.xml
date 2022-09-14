@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<orarend>
+	
+	<ora id="1" tipus="matek">
+		<targy nev="ValSzam"/>
+		<idopont>
+			<nap n="hetfo"/>
+			<tol ido="8"/>
+			<ig ido="10"/>
+		</idopont>
+		<helyszin ea="A1/5"/>
+		<oktato prof="Fegyverneki"/>
+		<szak nev="ProgTerv"/>
+	</ora>
+
+	
+	<ora id="2" tipus="info">
+		<targy nev="WebTech1"/>
+		<idopont>
+			<nap n="hetfo"/>
+			<tol ido="8"/>
+			<ig ido="10"/>
+		</idopont>
+		<helyszin ea="A1/305"/>
+		<oktato prof="A. Anita"/>
+		<szak nev="ProgTerv"/>
+	</ora>
+
+	
+	<ora id="3" tipus="matek">
+		<targy nev="ValSzam"/>
+		<idopont>
+			<nap n="hetfo"/>
+			<tol ido="14"/>
+			<ig ido="16"/>
+		</idopont>
+		<helyszin ea="A1/315"/>
+		<oktato prof="Fegyverneki"/>
+		<szak nev="ProgTerv"/>
+	</ora>
+
+	
+	<ora id="4" tipus="info">
+		<targy nev="WebTech1"/>
+		<idopont>
+			<nap n="hetfo"/>
+			<tol ido="16"/>
+			<ig ido="18"/>
+		</idopont>
+		<helyszin ea="Inf/103"/>
+		<oktato prof="A. Anita"/>
+		<szak nev="ProgTerv"/>
+	</ora>
+	
+	
+	<ora id="5" tipus="info">
+		<targy nev="MesInt"/>
+		<idopont>
+			<nap n="kedd"/>
+			<tol ido="9"/>
+			<ig ido="12"/>
+		</idopont>
+		<helyszin ea="A2/2"/>
+		<oktato prof="Dr. T. Judit"/>
+		<szak nev="ProgTerv"/>
+	</ora>
+
+
+	<ora id="6" tipus="info">
+		<targy nev="XML"/>
+		<idopont>
+			<nap n="kedd"/>
+			<tol ido="12"/>
+			<ig ido="14"/>
+		</idopont>
+		<helyszin ea="A1/32"/>
+		<oktato prof="Dr. B. László"/>
+		<szak nev="ProgTerv"/>
+	</ora>
+
+	<ora id="7" tipus="info">
+		<targy nev="AlgVizsg"/>
+		<idopont>
+			<nap n="kedd"/>
+			<tol ido="14"/>
+			<ig ido="18"/>
+		</idopont>
+		<helyszin ea="A1/10"/>
+		<oktato prof="Házy"/>
+		<szak nev="ProgTerv"/>
+	</ora>
+
+
+	<ora id="8" tipus="info">
+		<targy nev="MesInt"/>
+		<idopont>
+			<nap n="szerda"/>
+			<tol ido="8"/>
+			<ig ido="9"/>
+		</idopont>
+		<helyszin ea="Inf/15"/>
+		<oktato prof="Dr. T. Judit"/>
+		<szak nev="ProgTerv"/>
+	</ora>
+
+
+	<ora id="9" tipus="info">
+		<targy nev="XML"/>
+		<idopont>
+			<nap n="szerda"/>
+			<tol ido="10"/>
+			<ig ido="12"/>
+		</idopont>
+		<helyszin ea="Inf/101"/>
+		<oktato prof="Dr. B. László"/>
+		<szak nev="ProgTerv"/>
+	</ora>
+
+
+	<ora id="10" tipus="info">
+		<targy nev="ValInf"/>
+		<idopont>
+			<nap n="szerda"/>
+			<tol ido="16"/>
+			<ig ido="20"/>
+		</idopont>
+		<helyszin ea="Inf/103"/>
+		<oktato prof="Dr. S. Péter"/>
+		<szak nev="ProgTerv"/>
+	</ora>
+
+
+	
+</orarend>
