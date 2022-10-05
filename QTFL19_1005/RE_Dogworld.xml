@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<konyvek xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="DogWorld2.xsd">
+<konyvek xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="RE_Dogworld.xsd">
 
 	<konyv isbn="0836217462">
 		<cim>DogWorld</cim>
