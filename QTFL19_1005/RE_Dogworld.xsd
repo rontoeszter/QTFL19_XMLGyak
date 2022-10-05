@@ -10,6 +10,7 @@
 						<xs:sequence>
 							<xs:element name="cim" type="xs:string" minOccurs="0" maxOccurs="1" />
 							<xs:element name="szerzo" type="xs:string" />
+							
 							<xs:element name="szereplo" minOccurs="0" maxOccurs="20">
 								<xs:complexType>
 									<xs:sequence>
